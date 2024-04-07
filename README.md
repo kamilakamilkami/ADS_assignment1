@@ -1,6 +1,8 @@
 # ADS_assignment1
 1st task
 Reads the number n and create an array of size n.Iterates through the array to find the minimum element
+
+
 Time complexity:O(n)
 
 2nd task
