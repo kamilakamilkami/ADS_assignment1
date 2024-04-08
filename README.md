@@ -1,15 +1,18 @@
 # ADS_assignment1
 
 ## 1st task
-
-
 1.Reads the number n and create an array of size n.Iterates through the array to find the minimum element
+
+
 2.Time complexity:O(n)
 
 ## 2nd task
-
 1.Calculates through the array the sum of all elements
+
+
 2.Divides the sum by the num of element to find the average
+
+
 3.Time complexity: O(n)
 
 ## 3rd task
